@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gSys1337
-- 👀 I’m interested in Linux and Rust.
+- 👀 I’m interested in Linux, Keyboards and Rust.
 - 🌱 I’m currently learning CS at my university.
 - 📫 you can reach me ...
 
